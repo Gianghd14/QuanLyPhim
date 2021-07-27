@@ -24,6 +24,6 @@ Trong đồ án có sử dụng ngôn ngữ/ framework như sau:
 - Spring boot, Spring Security
 - MySQL, XAMPP
 
-#Cài đặt 
+**#Cài đặt** 
 -Backend Java SpringBoot, config database trong properties 
--FrontEnd : 
+-FrontEnd : cài đặt tại : 
