@@ -17,10 +17,13 @@ Project làm về chủ đề quản lý và bán vé xem phim. Trong đồ án 
 - Thêm sửa xóa lịch chiếu phim
 - Thêm sửa xóa nhân viên
 - Thống kê số lượng vé bán được
+
 Trong project có sử dụng ngôn ngữ/ framework như sau:
 - Spring boot, Spring Security
 - MySQL, XAMPP
 
 **#Cài đặt** 
+
 -Backend Java SpringBoot, config database trong properties 
+
 -FrontEnd : cài đặt tại : https://github.com/Gianghd14/QuanLyPhimFE
