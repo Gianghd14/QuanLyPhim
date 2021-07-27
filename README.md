@@ -23,4 +23,4 @@ Trong project có sử dụng ngôn ngữ/ framework như sau:
 
 **#Cài đặt** 
 -Backend Java SpringBoot, config database trong properties 
--FrontEnd : cài đặt tại : 
+-FrontEnd : cài đặt tại : https://github.com/Gianghd14/QuanLyPhimFE
