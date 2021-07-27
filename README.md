@@ -1,5 +1,5 @@
 # QuanLyPhim
-Demo java quản lí bán vé xem phim
+Demo java quản lí bán vé xem phim 
 Project làm về chủ đề quản lý và bán vé xem phim. Trong đồ án có một số module/ chức năng như sau:
 1. Phần người dùng
 - Tạo tài khoản
@@ -22,4 +22,8 @@ Project làm về chủ đề quản lý và bán vé xem phim. Trong đồ án 
 
 Trong đồ án có sử dụng ngôn ngữ/ framework như sau:
 - Spring boot, Spring Security
-- MySQL
+- MySQL, XAMPP
+
+#Cài đặt 
+-Backend Java SpringBoot, config database trong properties 
+-FrontEnd : 
