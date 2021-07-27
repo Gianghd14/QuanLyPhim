@@ -1,4 +1,4 @@
-# QuanLyPhim
+# QuanLyPhim 🔥
 Demo java quản lí bán vé xem phim 
 Project làm về chủ đề quản lý và bán vé xem phim. Trong đồ án có một số module/ chức năng như sau:
 1. Phần người dùng
